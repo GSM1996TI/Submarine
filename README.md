@@ -91,7 +91,7 @@ Sinta-se à vontade para explorar o código, sugerir melhorias ou adicionar nova
 
 ## Licença: Compartilhando a Descoberta
 
-Este projeto está sob a licença Apache2. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto está sob a licença Apache-2.0. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## Agradecimentos: Nossos Aliados nas Profundezas
 
